@@ -1,0 +1,1 @@
+npm i --legacy-peer-deps react react-dom react-scripts web-vitals react-router-dom jwt-decode react-file-base64 react-google-login react-redux redux redux-thunk @testing-library/jest-dom @testing-library/react @testing-library/user-event @material-ui/core @material-ui/icons @material-ui/lab axios material-ui-chip-input moment 
